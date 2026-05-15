@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arggeiser07
+- 👋 Hi, I’m Rafael García 
 - 👀 I’m interested in ... ML/DL/IA
 - 🌱 I’m currently learning ... both
 - 💞️ I’m looking to collaborate on ... some projects to learn more 
