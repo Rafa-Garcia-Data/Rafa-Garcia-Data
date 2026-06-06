@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Rafael García 
-- 👀 I’m interested in ... ML/DL/IA
+- 👋 Hi, I’m Rafael García , learning from Evolve Academy
+- 👀 I’m interested in ... Data Science & ML/DL/IA
 - 🌱 I’m currently learning ... both
 - 💞️ I’m looking to collaborate on ... some projects to learn more 
 - 📫 How to reach me ...mail, linkedin 
