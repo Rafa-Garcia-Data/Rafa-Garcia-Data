@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Data Science & ML/DL/IA
 - 🌱 I’m currently learning ... both
 - 💞️ I’m looking to collaborate on ... some projects to learn more 
-- 📫 How to reach me ...mail, linkedin 
+- 📫 How to reach me ...Mail, Linkedin 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
