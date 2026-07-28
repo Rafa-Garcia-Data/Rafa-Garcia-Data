@@ -1,12 +1,7 @@
-- 👋 Hi, I’m Rafael García , learning from Evolve Academy
-- 👀 I’m interested in ... Data Science & ML/DL/IA
-- 🌱 I’m currently learning ... both
-- 💞️ I’m looking to collaborate on ... some projects to learn more 
-- 📫 How to reach me ...Mail, Linkedin 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m Rafael García , currently reskilling into Data Science, with autodidact background in python, html and Js basics.
+- 👀 I’m interested in ... Data Science, GiS and Machine Learning
+- 🌱 I’m currently learning at Evolve Academy through a Data Science and IA master´s program.
+- 💞️ I’m looking to collaborate on some projects to learn more, for now i´ll do for myself.
+- 📫 How to reach me --> Mail, Linkedin 
+- ⚡ Fun fact: I am a polymath, i enjoy learning new things. 
 
-<!---
-Arggeiser07/Arggeiser07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
