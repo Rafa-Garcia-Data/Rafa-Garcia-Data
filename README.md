@@ -14,6 +14,8 @@
 
 
 
+
+
 # Stack and tools 
 
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,vscode,docker,git,bash)](https://skillicons.dev)
