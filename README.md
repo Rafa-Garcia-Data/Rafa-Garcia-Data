@@ -34,23 +34,6 @@ mindmap
 
 ```mermaid
 graph TD
-    A(("🧠 Rafa García")) ==> B["📊 Data Science"]
-    A ==> C["💻 Stack Principal"]
-    A ==> D["🚀 Proyectos"]
-
-    B -.-> B1["Machine Learning"]
-    B -.-> B2["Data Analysis"]
-    B -.-> B3["GIS"]
-
-    C -.-> C1["Python & FastAPI"]
-    C -.-> C2["SQL & Docker"]
-
-    D -.-> D1["Notibrief"]
-    D -.-> D2["ML-DL-IA"]
-```
-
-```mermaid
-graph TD
     %% Nodos principales
     R(("🧠 Rafa García"))
     DS["📊 Data Science"]
@@ -58,7 +41,7 @@ graph TD
     PR["🚀 Proyectos"]
 
     %% Conexiones
-    R --> DS
+    R -.-> DS
     R --> ST
     R --> PR
 
@@ -73,6 +56,17 @@ graph TD
 
     %% Animación CSS inyectada
     linkStyle default stroke:#6366f1,stroke-width:2px,stroke-dasharray: 5 5,animation: mermaid-flow 1s linear infinite;
+```
+
+```mermaid
+graph TD
+    A(("🧠 Rafa")) ==> B["Data Science"]
+    A ==> C["Backend"]
+
+    B -.-> B1["Machine Learning"]
+    C -.-> C1["Python"]
+
+    linkStyle default stroke:#10b981,stroke-width:3px,stroke-dasharray:8 4,animation:mermaid-flow 0.4s linear infinite;
 ```
 
 # Stack and tools 
