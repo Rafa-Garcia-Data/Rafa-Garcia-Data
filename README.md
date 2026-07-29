@@ -60,14 +60,32 @@ graph TD
 
 ```mermaid
 graph TD
-    A(("🧠 Rafa")) ==> B["Data Science"]
-    A ==> C["Backend"]
+    %% Estilos visuales
+    classDef root fill:#4f46e5,stroke:#c7d2fe,stroke-width:3px,color:#fff,font-weight:bold;
+    classDef main fill:#1e1b4b,stroke:#818cf8,stroke-width:2px,color:#fff;
+    classDef sub fill:#0f172a,stroke:#38bdf8,stroke-width:1px,color:#93c5fd;
 
-    B -.-> B1["Machine Learning"]
-    C -.-> C1["Python"]
+    R(("🧠 Rafa García")):::root
 
-    linkStyle default stroke:#10b981,stroke-width:3px,stroke-dasharray:8 4,animation:mermaid-flow 0.4s linear infinite;
+    DS["📊 Data Science"]:::main
+    ST["💻 Stack & Tools"]:::main
+    PR["🚀 Proyectos"]:::main
+
+    R === DS
+    R === ST
+    R === PR
+
+    DS --- ML["Machine Learning"]:::sub
+    DS --- DA["Data Analysis"]:::sub
+    DS --- GIS["GIS"]:::sub
+
+    ST --- PY["Python & FastAPI"]:::sub
+    ST --- DK["Docker & SQL"]:::sub
+
+    PR --- NB["Notibrief"]:::sub
 ```
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Rafa%20García&fontSize=50)
 
 # Stack and tools 
 
