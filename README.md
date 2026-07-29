@@ -26,31 +26,6 @@
 
 
 
-```mermaid
-graph TD
-    %% Nodos principales
-    R(("🧠 Rafa García"))
-    DS["📊 Data Science"]
-    ST["💻 Stack & Tools"]
-    PR["🚀 Proyectos"]
-
-    %% Conexiones
-    R -.-> DS
-    R --> ST
-    R --> PR
-
-    DS --> ML["Machine Learning"]
-    DS --> DA["Data Analysis"]
-    DS --> GIS["GIS"]
-
-    ST --> PY["Python & FastAPI"]
-    ST --> DK["Docker & SQL"]
-
-    PR --> NB["Notibrief"]
-
-    %% Animación CSS inyectada
-    linkStyle default stroke:#6366f1,stroke-width:2px,stroke-dasharray: 5 5,animation: mermaid-flow 1s linear infinite;
-```
 
 ```mermaid
 graph TD
