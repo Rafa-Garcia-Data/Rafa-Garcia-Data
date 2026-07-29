@@ -25,25 +25,6 @@
   Y ahí estoy yo, justo en ese camino, con muchas ganas ,  y un sinfín de herramientas y habilidades pro aprender, que mi mantienen motivado para afrontar todos los retos que conlleva esta profesión.
 
 
-```mermaid
-mindmap
-  root((Rafa García))
-    Data Science
-      Machine Learning
-      Data Analysis
-      GIS
-    Stack Principal
-      Python
-      FastAPI
-      SQL
-      Docker
-    Proyectos
-      Notibrief
-      ML-DL-IA
-    Formación
-      Evolve Academy
-      Autodidacta
-```
 
 ```mermaid
 graph TD
@@ -98,7 +79,6 @@ graph TD
     PR --- NB["Notibrief"]:::sub
 ```
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Rafa%20García&fontSize=50)
 
 # Stack and tools 
 
