@@ -12,9 +12,68 @@
   Y ahí estoy yo, justo en ese camino, con muchas ganas ,  y un sinfín de herramientas y habilidades pro aprender, que mi mantienen motivado para afrontar todos los retos que conlleva esta profesión.
 
 
+```mermaid
+mindmap
+  root((Rafa García))
+    Data Science
+      Machine Learning
+      Data Analysis
+      GIS
+    Stack Principal
+      Python
+      FastAPI
+      SQL
+      Docker
+    Proyectos
+      Notibrief
+      ML-DL-IA
+    Formación
+      Evolve Academy
+      Autodidacta
+```
 
+```mermaid
+graph TD
+    A(("🧠 Rafa García")) ==> B["📊 Data Science"]
+    A ==> C["💻 Stack Principal"]
+    A ==> D["🚀 Proyectos"]
 
+    B -.-> B1["Machine Learning"]
+    B -.-> B2["Data Analysis"]
+    B -.-> B3["GIS"]
 
+    C -.-> C1["Python & FastAPI"]
+    C -.-> C2["SQL & Docker"]
+
+    D -.-> D1["Notibrief"]
+    D -.-> D2["ML-DL-IA"]
+```
+
+```mermaid
+graph TD
+    %% Nodos principales
+    R(("🧠 Rafa García"))
+    DS["📊 Data Science"]
+    ST["💻 Stack & Tools"]
+    PR["🚀 Proyectos"]
+
+    %% Conexiones
+    R --> DS
+    R --> ST
+    R --> PR
+
+    DS --> ML["Machine Learning"]
+    DS --> DA["Data Analysis"]
+    DS --> GIS["GIS"]
+
+    ST --> PY["Python & FastAPI"]
+    ST --> DK["Docker & SQL"]
+
+    PR --> NB["Notibrief"]
+
+    %% Animación CSS inyectada
+    linkStyle default stroke:#6366f1,stroke-width:2px,stroke-dasharray: 5 5,animation: mermaid-flow 1s linear infinite;
+```
 
 # Stack and tools 
 
