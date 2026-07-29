@@ -1,3 +1,16 @@
+<div align="center">
+
+  <!-- GIF / Dibujo de red de nodos a la izquierda o centro -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px" />
+
+  <!-- Tu banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03070D,25:0D1926,55:1C4E5E,80:112636,100:03070D&height=180&section=header&text=Rafa%20García&fontSize=42&fontColor=ffffff&desc=Datos.%20Decisiones.&descSize=14&descAlignY=71&fontSizeDesc=18&fontColorDesc=5CC5B5" width="100%" />
+
+  <!-- Línea inferior estilo fibra óptica / flujo de datos -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="4px" />
+
+</div>
+
 - 👋 Hi, I’m Rafael García , currently reskilling into Data Science, with autodidact background in python, html and Js basics.
 - 👀 I’m interested in ... Data Science, GiS and Machine Learning
 - 🌱 I’m currently learning at Evolve Academy through a Data Science and IA master´s program.
