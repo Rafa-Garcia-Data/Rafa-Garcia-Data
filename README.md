@@ -24,7 +24,10 @@
   Siempre he sido una persona muy curiosa y mis ganas de aprender nunca se terminan. Simper estoy creando ideas y descubriendo perfiles que se dedicaban al mundo de la tecnología y la información desubrí el mundo de la ciencia de datos.
   Y ahí estoy yo, justo en ese camino, con muchas ganas ,  y un sinfín de herramientas y habilidades pro aprender, que mi mantienen motivado para afrontar todos los retos que conlleva esta profesión.
 
+### 🌐 Grafo Interactivo
+¡Echa un vistazo a mi red de habilidades de forma interactiva!
 
+👉 [Ver Grafo Interactivo en Vivo](https://tu-usuario.github.io/nombre-del-repo/)
 
 
 ```mermaid
