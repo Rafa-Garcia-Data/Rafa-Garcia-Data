@@ -32,33 +32,6 @@
 
 ```mermaid
 graph TD
-    %% Estilos visuales
-    classDef root fill:#4f46e5,stroke:#c7d2fe,stroke-width:3px,color:#fff,font-weight:bold;
-    classDef main fill:#1e1b4b,stroke:#818cf8,stroke-width:2px,color:#fff;
-    classDef sub fill:#0f172a,stroke:#38bdf8,stroke-width:1px,color:#93c5fd;
-
-    R(("🧠 Rafa García")):::root
-
-    DS["📊 Data Science"]:::main
-    ST["💻 Stack & Tools"]:::main
-    PR["🚀 Proyectos"]:::main
-
-    R === DS
-    R === ST
-    R === PR
-
-    DS --- ML["Machine Learning"]:::sub
-    DS --- DA["Data Analysis"]:::sub
-    DS --- GIS["GIS"]:::sub
-
-    ST --- PY["Python & FastAPI"]:::sub
-    ST --- DK["Docker & SQL"]:::sub
-    
-
-    PR --- NB["Notibrief"]:::sub
-```
-```mermaid
-graph TD
     %% Estilos adaptados a tu marca (Negro, Azul Petróleo y Turquesa)
     classDef root fill:#1C4E5E,stroke:#00D2FF,stroke-width:3px,color:#fff,font-weight:bold;
     classDef main fill:#0D1926,stroke:#2A7B88,stroke-width:2px,color:#fff,font-weight:bold;
