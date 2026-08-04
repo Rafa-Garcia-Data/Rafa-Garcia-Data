@@ -27,8 +27,6 @@
 ### 🌐 Grafo Interactivo
 ¡Echa un vistazo a mi red de habilidades de forma interactiva!
 
-👉 [Ver Grafo Interactivo en Vivo](https://tu-usuario.github.io/nombre-del-repo/)
-
 <p align="center">
   <!-- 1. En el href pones el enlace de tu GitHub Pages que acabas de copiar -->
   <a href="https://rafa-garcia-data.github.io/d3-skills-network-and-others/" target="_blank">
