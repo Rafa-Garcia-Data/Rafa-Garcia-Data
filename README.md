@@ -29,6 +29,12 @@
 
 👉 [Ver Grafo Interactivo en Vivo](https://tu-usuario.github.io/nombre-del-repo/)
 
+<p align="center">
+  <a href="AQUÍ_PONES_EL_ENLACE_DE_TU_GRAFO">
+    <img src="./assets/boton-grafo.svg" alt="Grafo interactivo" width="220" />
+  </a>
+</p>
+
 
 ```mermaid
 graph TD
