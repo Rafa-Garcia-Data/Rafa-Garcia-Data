@@ -33,45 +33,6 @@
   </a>
 </p>
 
-
-```mermaid
-graph TD
-    %% Estilos adaptados a tu marca (Negro, Azul Petróleo y Turquesa)
-    classDef root fill:#1C4E5E,stroke:#00D2FF,stroke-width:3px,color:#fff,font-weight:bold;
-    classDef main fill:#0D1926,stroke:#2A7B88,stroke-width:2px,color:#fff,font-weight:bold;
-    classDef sub fill:#03070D,stroke:#1C4E5E,stroke-width:1.5px,color:#5CC5B5;
-
-    %% Nodo Raíz
-    R(("🧠 Rafa García<br/>")):::root
-
-    %% Ramas Principales
-    DS["📊 Data Science"]:::main
-    ST["💻 Stack & Tools"]:::main
-    PR["🚀 Proyectos"]:::main
-
-    %% Conexiones Principales
-    R ==> DS
-    R ==> ST
-    R ==> PR
-
-    %% Sub-nodos de Data Science
-    DS --- ML["🤖 Machine Learning"]:::sub
-    DS --- DL["🤖 Deep Learning"]:::sub
-    DS --- DA["📈 Data Analysis"]:::sub
-    DS --- GIS["🗺️ GIS & Geospatial"]:::sub
-    DS --- NLP["🗣️ NLP / LLMs"]:::sub
-    DS --- Aaaa["Aaaaa"]:::sub
-
-    %% Sub-nodos de Stack & Tools
-    ST --- PY["🐍 Python & FastAPI"]:::sub
-    ST --- DK["🐳 Docker & SQL"]:::sub
-    ST --- DB["🗄️ PostgreSQL / PostGIS"]:::sub
-
-    %% Sub-nodos de Proyectos
-    PR --- NB["📰 Notibrief"]:::sub
-    PR --- P2["⚡ Proyecto 2"]:::sub
-```
-
 # Stack and tools 
 
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow,vscode,docker,git,bash)](https://skillicons.dev)
