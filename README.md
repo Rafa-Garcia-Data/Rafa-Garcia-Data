@@ -31,7 +31,7 @@
   <!-- 1. En el href pones el enlace de tu GitHub Pages que acabas de copiar -->
   <a href="https://rafa-garcia-data.github.io/d3-skills-network-and-others/" target="_blank">
     <!-- 2. En el img src pones la ruta o URL RAW de tu botón SVG -->
-    <img src="AQUÍ_PEGA_LA_URL_RAW_O_RUTA_DE_TU_BOTON" alt="Visita del grafo 3D" width="220" />
+    <img src="https://raw.githubusercontent.com/Rafa-Garcia-Data/d3-skills-network-and-others/refs/heads/main/boton-grafo.svg" alt="Visita del grafo 3D" width="220" />
   </a>
 </p>
 
