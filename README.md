@@ -27,11 +27,8 @@
 ### 🌐 Grafo Interactivo
 ¡Echa un vistazo a mi red de habilidades de forma interactiva!
 
-<p align="center">
-  <a href="https://rafa-garcia-data.github.io/d3-skills-network-and-others/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Rafa-Garcia-Data/d3-skills-network-and-others/refs/heads/main/boton-grafo.svg" alt="Visita del grafo 3D" width="220" />
-  </a>
-</p>
+<p align="center"><a href="https://github.io" target="_blank"><img src="https://githubusercontent.com" alt="Visita del grafo 3D" width="220" /></a></p>
+
 
 # Stack and tools 
 
