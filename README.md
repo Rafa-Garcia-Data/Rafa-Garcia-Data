@@ -18,11 +18,17 @@
 - 📫 How to reach me --> Mail, Linkedin 
 - ⚡ Fun fact: I am a polymath, i enjoy learning new things.
 
-- 🚧 Proyecto en construcción 🚧-
+- 🚧 Siempre estoy en construcción 🚧-
 
-  Llevo unos 3 años haciendo proyectos personales para aprender python y sus librerías mas usadas, asi como habilidades generales y aplicaciones que derivan de este lenguaje. Empecé con Html y Javascript un año antes.
-  Siempre he sido una persona muy curiosa y mis ganas de aprender nunca se terminan. Simper estoy creando ideas y descubriendo perfiles que se dedicaban al mundo de la tecnología y la información desubrí el mundo de la ciencia de datos.
-  Y ahí estoy yo, justo en ese camino, con muchas ganas ,  y un sinfín de herramientas y habilidades pro aprender, que mi mantienen motivado para afrontar todos los retos que conlleva esta profesión.
+About me..
+
+  Llevo unos 3 años haciendo proyectos personales para aprender Python y sus librerías mas usadas, así como habilidades generales y aplicaciones que derivan de este lenguaje. Empecé con html y Javascript un año antes.
+  Siempre he sido una persona muy curiosa y mis ganas de aprender nunca terminan. Estoy constantemente generando ideas y descubriendo perfiles que se dedican al mundo de la tecnología y la información . Así es como descubrí el mundo de la ciencia de datos.
+  Y ahí estoy yo, justo en ese camino, con muchas ganas y un sinfín de herramientas y habilidades por aprender, que me mantienen motivado para afrontar todos los retos que conlleva esta profesión.
+
+  I have been doing personal projects to learn Python and its most used libraries for around three years , as well as general skills and derived applications from this language. I started with html and Javascript one year before that.
+  I have always been a very curious person and my desire to learn never ends. I am constantly generating ideas and discovering profiles dedicated to technology and information world. That is how I discovered the world of data science.
+  And there I am, right on that path, with great enthusiasm and an endless number of tools and skills to learn, which keep me motivated to face all the challenges that come with this profession. 
 
 ### 🌐 Grafo Interactivo
 ¡Echa un vistazo a mi red de habilidades de forma interactiva!
