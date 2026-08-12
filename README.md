@@ -70,12 +70,12 @@
 <tr>
     <!-- PROYECTO 1: NotiBrief -->
 <td width="50%" valign="top">
-      <h3>⚽ Analista IA profesional de fútbol</h3>
+      <h3>NotiBrief</h3>
       <img src="assets/football-llm.png" width="100%" alt="AI Football Performance Analyst" style="border-radius: 8px;" />
       <br/><br/>
-      <p>Asistente basado en IA Generativa y LLMs diseñado para analizar métricas avanzadas de jugadores de fútbol de la temporada 2024/25 y generar insights tácticos y de rendimiento.</p>
+      <p>Extensión de Google Chrome para resumir las publicaciones en LinkedIn en un solo click.</p>
       <h4>Tech Stack</h4>
-      <p><code>Python</code> · <code>LLMs</code> · <code>Pandas</code> · <code>Data Analysis</code> · <code>Generative AI</code></p>
+      <p><code>Python</code> · <code>OpenCode</code> · <code>Docker</code> · <code>.bat</code> · <code>VS Code</code></p>
       <br/>
       <a href="https://github.com/OscarFdz24/Asistente_Experto_LLM_Oscar_Fernandez_Evolve">
         <img alt="Static Badge" src="https://img.shields.io/badge/view%20project-turquoise?logo=gitbook&logoColor=black">
