@@ -44,7 +44,7 @@
   </a>
 </p>
 
-# Stack and tools 
+#  Stack and tools 
 
 ![My Skills](https://skillicons.dev/icons?i=python,tensorflow,vscode,docker,git,bash)
 
@@ -64,9 +64,40 @@
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/54faeb76-d06e-4859-990a-0c540ecaab30" /> <sub>PowerBi</sub>
 
-# Proyectos
+# Projects
+
+<table border="0">
+<tr>
+    <!-- PROYECTO 1: ANALISTA IA FÚTBOL -->
+<td width="50%" valign="top">
+      <h3>⚽ Analista IA profesional de fútbol</h3>
+      <img src="assets/football-llm.png" width="100%" alt="AI Football Performance Analyst" style="border-radius: 8px;" />
+      <br/><br/>
+      <p>Asistente basado en IA Generativa y LLMs diseñado para analizar métricas avanzadas de jugadores de fútbol de la temporada 2024/25 y generar insights tácticos y de rendimiento.</p>
+      <h4>Tech Stack</h4>
+      <p><code>Python</code> · <code>LLMs</code> · <code>Pandas</code> · <code>Data Analysis</code> · <code>Generative AI</code></p>
+      <br/>
+      <a href="https://github.com/OscarFdz24/Asistente_Experto_LLM_Oscar_Fernandez_Evolve">
+        <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+      </a>
+</td>
+
+<!-- PROYECTO 2: MODELO ML PREDICCIÓN -->
+<td width="50%" valign="top">
+      <h3>📈 Modelo ML - Predicción de Recompra de un cliente</h3>
+      <img src="assets/customer-ml.png" width="100%" alt="Customer Intelligence ML Model" style="border-radius: 8px;" />
+      <br/><br/>
+      <p>Proyecto de Machine Learning enfocado en el análisis del comportamiento de clientes y la creación de modelos predictivos para apoyar la toma de decisiones de negocio.</p>
+      <h4>Tech Stack</h4>
+      <p><code>Python</code> · <code>Scikit-learn</code> · <code>Pandas</code> · <code>NumPy</code> · <code>Machine Learning</code></p>
+      <br/>
+      <a href="https://github.com/OscarFdz24/Proyecto_ML_Clientes_Oscar_Fernandez">
+        <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+      </a>
+</td>
+</tr>
+</table>
 
 
 
-
-
+    
