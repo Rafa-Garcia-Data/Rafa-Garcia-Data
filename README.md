@@ -68,7 +68,7 @@
 
 <table border="0">
 <tr>
-    <!-- PROYECTO 1: ANALISTA IA FÚTBOL -->
+    <!-- PROYECTO 1: NotiBrief -->
 <td width="50%" valign="top">
       <h3>⚽ Analista IA profesional de fútbol</h3>
       <img src="assets/football-llm.png" width="100%" alt="AI Football Performance Analyst" style="border-radius: 8px;" />
@@ -78,7 +78,8 @@
       <p><code>Python</code> · <code>LLMs</code> · <code>Pandas</code> · <code>Data Analysis</code> · <code>Generative AI</code></p>
       <br/>
       <a href="https://github.com/OscarFdz24/Asistente_Experto_LLM_Oscar_Fernandez_Evolve">
-        <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/view%20project-turquoise?logo=gitbook&logoColor=black">
+
       </a>
 </td>
 
