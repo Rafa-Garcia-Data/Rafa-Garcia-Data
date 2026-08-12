@@ -60,6 +60,7 @@ About me..
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/54faeb76-d06e-4859-990a-0c540ecaab30" /> <sub>PowerBi</sub>
 
+# Proyectos
 
 
 
