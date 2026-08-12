@@ -20,8 +20,12 @@
 - ⚡ Fun fact: I am a polymath, i enjoy learning new things.
 
 - 🚧 Siempre estoy en construcción 🚧-
+  
 
-About me..
+
+ <img width="300" height="150" alt="cat" src="https://github.com/user-attachments/assets/010029cc-c069-49e5-b827-2928c0f7533f" /> 
+ 
+ # About me..
 
   Llevo unos 3 años haciendo proyectos personales para aprender Python y sus librerías mas usadas, así como habilidades generales y aplicaciones que derivan de este lenguaje. Empecé con html y Javascript un año antes.
   Siempre he sido una persona muy curiosa y mis ganas de aprender nunca terminan. Estoy constantemente generando ideas y descubriendo perfiles que se dedican al mundo de la tecnología y la información . Así es como descubrí el mundo de la ciencia de datos.
