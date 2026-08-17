@@ -77,9 +77,8 @@
       <h4>Tech Stack</h4>
       <p><code>Python</code> · <code>OpenCode</code> · <code>Docker</code> · <code>.bat</code> · <code>VS Code</code></p>
       <br/>
-      <a href="https://github.com/OscarFdz24/Asistente_Experto_LLM_Oscar_Fernandez_Evolve">
+      <a href="https://github.com/Rafa-Garcia-Data/Notibrief">
         <img alt="Static Badge" src="https://img.shields.io/badge/view%20project-turquoise?logo=gitbook&logoColor=black">
-
       </a>
 </td>
 
@@ -92,8 +91,8 @@
       <h4>Tech Stack</h4>
       <p><code>Python</code> · <code>Scikit-learn</code> · <code>Pandas</code> · <code>NumPy</code> · <code>Machine Learning</code></p>
       <br/>
-      <a href="https://github.com/OscarFdz24/Proyecto_ML_Clientes_Oscar_Fernandez">
-        <img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
+      <a href="https://github.com/Rafa-Garcia-Data">
+         <img alt="Static Badge" src="https://img.shields.io/badge/view%20project-turquoise?logo=gitbook&logoColor=black">
       </a>
 </td>
 </tr>
