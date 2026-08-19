@@ -21,11 +21,8 @@
 
 - 🚧 Siempre estoy en construcción 🚧-
   
-
-
- <img width="300" height="150" alt="cat" src="https://github.com/user-attachments/assets/010029cc-c069-49e5-b827-2928c0f7533f" /> 
  
- # About me..
+ # About me...
 
   Llevo unos 3 años haciendo proyectos personales para aprender Python y sus librerías mas usadas, así como habilidades generales y aplicaciones que derivan de este lenguaje. Empecé con html y Javascript un año antes.
   Siempre he sido una persona muy curiosa y mis ganas de aprender nunca terminan. Estoy constantemente generando ideas y descubriendo perfiles que se dedican al mundo de la tecnología y la información . Así es como descubrí el mundo de la ciencia de datos.
@@ -70,9 +67,7 @@
 <tr>
     <!-- PROYECTO 1: NotiBrief -->
 <td width="50%" valign="top">
-      <h3>NotiBrief</h3>
-      <img src="assets/football-llm.png" width="100%" alt="AI Football Performance Analyst" style="border-radius: 8px;" />
-      <br/><br/>
+      <h3>⏱️NotiBrief</h3>
       <p>Extensión de Google Chrome para resumir las publicaciones en LinkedIn en un solo click.</p>
       <h4>Tech Stack</h4>
       <p><code>Python</code> · <code>OpenCode</code> · <code>Docker</code> · <code>.bat</code> · <code>VS Code</code></p>
@@ -84,10 +79,8 @@
 
 <!-- PROYECTO 2: MODELO ML PREDICCIÓN -->
 <td width="50%" valign="top">
-      <h3>📈 Modelo ML - Predicción de Recompra de un cliente</h3>
-      <img src="assets/customer-ml.png" width="100%" alt="Customer Intelligence ML Model" style="border-radius: 8px;" />
-      <br/><br/>
-      <p>Proyecto de Machine Learning enfocado en el análisis del comportamiento de clientes y la creación de modelos predictivos para apoyar la toma de decisiones de negocio.</p>
+      <h3>📈 En construcción...</h3>
+      <p>[...]</p>
       <h4>Tech Stack</h4>
       <p><code>Python</code> · <code>Scikit-learn</code> · <code>Pandas</code> · <code>NumPy</code> · <code>Machine Learning</code></p>
       <br/>
