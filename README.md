@@ -79,12 +79,12 @@
 
 <!-- PROYECTO 2: Flood-Risk-Cadiz -->
 <td width="50%" valign="top">
-      <h3>📈 Flood Risk-Cádiz</h3>
+      <h3>🌊 Flood Risk-Cádiz</h3>
       <p>Mapa interactivo basado en el riesgo de inundaciones en el municipio de Cádiz</p>
       <h4>Tech Stack</h4>
       <p><code>Python</code> · <code>H</code> · <code>Pandas</code> · <code>Geopandas</code> · <code>Rasterio</code></p>
       <br/>
-      <a href="https://github.com/Rafa-Garcia-Data">
+      <a href="https://github.com/Rafa-Garcia-Data/Flood_Risk-Cadiz">
          <img alt="Static Badge" src="https://img.shields.io/badge/view%20project-turquoise?logo=gitbook&logoColor=black">
       </a>
 </td>
